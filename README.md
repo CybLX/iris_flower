@@ -1,4 +1,5 @@
 # Iris Flower Classification
+![iris-machinelearning](https://github.com/user-attachments/assets/228e4912-9c47-4bce-95f7-6cc4d5b6a099)
 
 ## Overview
 This project explores the "Iris" dataset, originally published at the UCI Machine Learning Repository: Iris DataSet. This small dataset from 1936 is often used for testing machine learning algorithms and visualizations, such as Scatter Plots. Each row in the dataset represents an iris flower, including its species and the dimensions of its botanical parts: sepal and petal lengths and widths, measured in centimeters.
